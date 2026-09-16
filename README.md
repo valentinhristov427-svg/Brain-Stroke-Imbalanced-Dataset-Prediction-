@@ -25,7 +25,7 @@ Logistic Regression was selected as the final model, outperforming XGBoost despi
 
 ## Repository structure
 
-- `Project_BrainStrokeCapstone_Student.ipynb` — full notebook: data quality checks, EDA, preprocessing, model comparison, and final prediction pipeline.
+- `Project_Brain_Stroke_Capstone.ipynb` — full notebook: data quality checks, EDA, preprocessing, model comparison, and final prediction pipeline.
 - `Data` 
   - `brain_stroke_data.csv` — labelled training data.
   - `brain_stroke_unseen.csv` — unseen data for prediction.
